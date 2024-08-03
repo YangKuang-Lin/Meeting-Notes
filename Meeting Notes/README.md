@@ -2,6 +2,7 @@
 
 | Date                    | Summary                                            | Link                                 |
 | ----------------------- | -------------------------------------------------- | ------------------------------------ |
+| 2024/08/05 - 2024/08/09 | Retrieval-Augmented Generation                     | [2024-08-09](2024-08/2024-08-09.pdf) |
 | 2024/07/29 - 2024/08/02 | LLM Hallucination Detection and Evaluation         | [2024-08-02](2024-08/2024-08-02.pdf) |
 | 2024/07/22 - 2024/07/26 | Time Series Decomposition, LLM Enhanced Model      | [2024-07-26](2024-07/2024-07-26.pdf) |
 | 2024/07/15 - 2024/07/19 | Multi-label Image Classification, E-Ink, CLIP A... | [2024-07-19](2024-07/2024-07-19.pdf) |
