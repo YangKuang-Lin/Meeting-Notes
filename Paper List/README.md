@@ -30,6 +30,10 @@
 
 # Transformer
 
+### Self-Attention
+
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+
 ### Cross-Modal Transformer
 
 - [GIT: A Generative Image-to-text Transformer for Vision and Language](https://arxiv.org/pdf/2205.14100)
@@ -62,6 +66,12 @@
 ### Text-Guided Style Transfer
 
 - [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer](https://arxiv.org/pdf/2303.08622)
+
+# Diffusion Model
+
+### LDM
+
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
 
 ### Audio-Guided Style Transfer
 
