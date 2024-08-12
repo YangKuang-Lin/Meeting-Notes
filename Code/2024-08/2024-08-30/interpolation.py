@@ -15,7 +15,7 @@ def interpotation(x1, x2, l, t):
 
     Returns
     -------
-    tensor
+    x: tensor
         The interpolated image.
 
     Notes
