@@ -20,7 +20,7 @@ def interpotation(x1, x2, l, t):
 
     Notes
     -----
-    .. [1] source, https://nn.labml.ai/diffusion/ddpm/evaluate.html
+    .. [1] Source Code, https://nn.labml.ai/diffusion/ddpm/evaluate.html
 
     """
 
