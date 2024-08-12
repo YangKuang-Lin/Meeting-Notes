@@ -4,13 +4,13 @@ def interpotation(x1, x2, l, t):
 
     Parameters
     ----------
-    x1 : tensor
+    x1: tensor
         Image x0.
-    x2 : tensor
+    x2: tensor
         Image x'0
-    l : float
+    l: float
         Lambda.
-    t : float
+    t: float
         Time.
 
     Returns
