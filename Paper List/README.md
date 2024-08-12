@@ -67,13 +67,13 @@
 
 - [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer](https://arxiv.org/pdf/2303.08622)
 
+### Audio-Guided Style Transfer
+
+- [SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models](https://arxiv.org/pdf/2405.00878)
+- [Sound-Guided Semantic Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Sound-Guided_Semantic_Image_Manipulation_CVPR_2022_paper.pdf)
+
 # Diffusion Model
 
 ### LDM
 
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
-
-### Audio-Guided Style Transfer
-
-- [SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models](https://arxiv.org/pdf/2405.00878)
-- [Sound-Guided Semantic Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Sound-Guided_Semantic_Image_Manipulation_CVPR_2022_paper.pdf)
