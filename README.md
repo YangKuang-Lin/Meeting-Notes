@@ -1,3 +1,3 @@
 # Meeting Notes
 
-This is a repository for the meeting notes.
+This repository contains the meeting notes.
