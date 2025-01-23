@@ -1,3 +1,3 @@
 # Meeting Notes
 
-This repository contains the meeting notes.
+This repository contains my weekly meeting notes.
