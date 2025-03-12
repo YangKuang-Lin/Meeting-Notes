@@ -66,6 +66,9 @@
 
 | Date                    | Summary                                            | Link                                 |
 | ----------------------- | -------------------------------------------------- | ------------------------------------ |
-| 2024/06/04 - 2024/06/28 | Multi-modal Emotion Recognition,  Recommendatio... | [2024-06-28](2024-06/2024-06-28.pdf) |
+| 2024/06/24 - 2024/06/28 | Multi-modal Emotion Recognition,  Recommendatio... | [2024-06-28](2024-06/2024-06-28.pdf) |
+| 2024/04/29 - 2024/05/31 | Weekly Progress Report                             | Unavailable                          |
+| 2024/04/01 - 2024/04/26 | Weekly Progress Report                             | Unavailable                          |
+| 2024/03/25 - 2024/03/29 | Weekly Progress Report                             | Unavailable                          |
 
 </details>
