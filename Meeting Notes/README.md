@@ -1,6 +1,15 @@
 # Meeting Notes
 
 <details open>
+<summary>2025 Q3</summary>
+
+| Date                    | Summary                                            | Link                                 |
+| ----------------------- | -------------------------------------------------- | ------------------------------------ |
+| 2025/06/30 - 2025/07/04 | Meeting Note                                       | [2025-07-04](2025-07/2025-07-04.pdf) |
+
+</details>
+
+<details>
 <summary>2025 Q2</summary>
 
 | Date                    | Summary                                            | Link                                 |
